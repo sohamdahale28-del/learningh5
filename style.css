@@ -1,0 +1,23 @@
+h1{
+    color:silver;
+    background-color: sienna;
+    font-size: 80px;
+
+}
+.t_align_c{
+    text-align: center;
+}
+
+th{
+    font-size: 50px;
+    color:rgb(red, green, blue);
+}
+.align_c{
+    align-items: center;
+}
+.t_color_red{
+    color: red;
+}
+.t_align{
+    text-align:center;
+}
