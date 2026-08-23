@@ -1,6 +1,6 @@
 h1{
-    color:silver;
-    background-color: sienna;
+    color:rgb(109, 41, 41);
+    text-shadow:4px 2px 1px;
     font-size: 80px;
 
 }
@@ -21,3 +21,10 @@ th{
 .t_align{
     text-align:center;
 }
+.t_color_yello{
+    color: goldenrod;
+}
+.t_decor_u{
+    text-decoration:underline;
+}
+
