@@ -33,4 +33,34 @@ th{
 .t_over_o{
     text-decoration: overline;
 }
-
+.f_family1{
+    font-family:cursive;
+}
+.l_height{
+    line-height:20px;
+}
+.b_shadow1{
+    box-shadow: 10px 5px 1px skyblue;
+    width:500px;
+    
+}
+.b_border{
+border: 10px solid darkgray;
+width: 700px;;
+}
+.w_width{
+    width: 200px;
+}
+.b_shadow2{
+    filter:drop-shadow(10px 8px 6px rgb(57, 57, 78));
+}
+.f_fmaliy2{
+    font-family:'Times New Roman',serif;
+    font-size:100px;
+}
+.f_family2{
+    font-style: italic;
+    font-size: 50px;
+    color: rgb(88, 41, 41);
+    line-height:50px;
+}
