@@ -41,7 +41,7 @@ th{
 }
 .b_shadow1{
     box-shadow: 10px 5px 1px skyblue;
-    width:500px;
+    width:700px;
     
 }
 .b_border{
@@ -52,7 +52,8 @@ width: 700px;;
     width: 200px;
 }
 .b_shadow2{
-    filter:drop-shadow(10px 8px 6px rgb(57, 57, 78));
+    box-shadow: (10px 8px 6px rgb(57, 57, 78));
+    width:500px;
 }
 .f_fmaliy2{
     font-family:'Times New Roman',serif;
