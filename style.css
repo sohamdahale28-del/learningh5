@@ -115,8 +115,8 @@ p::first-letter{
     
    color:rgb(99, 42, 42);
 }
-.t_hover{
-    transform:scaleZ(5);
-    background-color: rgb(37, 36, 36);
- color: rgb(110, 58, 58);
+.t_hover:hover{
+
+    background-color: rgb(149, 232, 185);
+ color: rgb(53, 17, 16);
 }
