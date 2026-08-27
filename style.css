@@ -104,3 +104,19 @@ width: 700px;;
 .red{
     background: red;
 }
+.f_size3{
+    font-size:50px;
+}
+.box8:hover{
+    transform:scaleX(10)
+}
+p::first-letter{
+    font-size:80px;
+    
+   color:rgb(99, 42, 42);
+}
+.t_hover{
+    transform:scaleZ(5);
+    background-color: rgb(37, 36, 36);
+ color: rgb(110, 58, 58);
+}
