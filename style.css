@@ -74,21 +74,21 @@ width: 700px;;
     background-color:rgb(52, 39, 39);
 }
 .box{
-    position: relative;left:100px;
-    padding:50px;
-        width:300px;
-    height:200pxpx;
+    position: relative;left:50px;
+    padding:20px;
+        width:230px;
+    height:250px;
     border: 5px double rgb(4, 78, 147);
 }
 .f_size{
-    position:relative;left:100px;
-    padding:50px 1px 50px 40px;
-    font-size:50px;
+    position:relative;left:2px;
+    padding:8px;
+    font-size:12px;
     border:5px double rgb(4, 78, 147);
-    width: 800px;
-}
-.box1{
-    position: relative; left:100px;
+    width:170px;
+    height:30px;
+    
+
     
 }
 .b_back{
@@ -98,7 +98,7 @@ width: 700px;;
 }
 .back{
     background:red;
-    width:100px;
+    width:50pxpx;
     padding:0px 10px 0px 10px;
 }
 .red{
@@ -108,15 +108,11 @@ width: 700px;;
     font-size:50px;
 }
 .box8:hover{
-    transform:scaleX(10)
+transition-property: background-color;
+transition-duration: 2s;
 }
 p::first-letter{
-    font-size:80px;
+    font-size:20px;
     
    color:rgb(99, 42, 42);
-}
-.t_hover:hover{
-
-    background-color: rgb(149, 232, 185);
- color: rgb(53, 17, 16);
 }
